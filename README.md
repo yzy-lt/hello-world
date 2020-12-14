@@ -1,2 +1,3 @@
 # hello-world
-Tutorial material
+
+Let's get this thing goin. 
